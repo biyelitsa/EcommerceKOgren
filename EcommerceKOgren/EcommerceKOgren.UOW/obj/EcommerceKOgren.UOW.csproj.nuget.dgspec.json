@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.UOW\\EcommerceKOgren.UOW.csproj": {}
+  },
+  "projects": {
+    "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DataAccess\\EcommerceKOgren.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DataAccess\\EcommerceKOgren.DataAccess.csproj",
+        "projectName": "EcommerceKOgren.DataAccess",
+        "projectPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DataAccess\\EcommerceKOgren.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Nida\\.nuget\\packages\\",
+        "outputPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DTO\\EcommerceKOgren.DTO.csproj": {
+                "projectPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DTO\\EcommerceKOgren.DTO.csproj"
+              },
+              "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.Entities\\EcommerceKOgren.Entities.csproj": {
+                "projectPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.Entities\\EcommerceKOgren.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DTO\\EcommerceKOgren.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DTO\\EcommerceKOgren.DTO.csproj",
+        "projectName": "EcommerceKOgren.DTO",
+        "projectPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DTO\\EcommerceKOgren.DTO.csproj",
+        "packagesPath": "C:\\Users\\Nida\\.nuget\\packages\\",
+        "outputPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.Entities\\EcommerceKOgren.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.Entities\\EcommerceKOgren.Entities.csproj",
+        "projectName": "EcommerceKOgren.Entities",
+        "projectPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.Entities\\EcommerceKOgren.Entities.csproj",
+        "packagesPath": "C:\\Users\\Nida\\.nuget\\packages\\",
+        "outputPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.UOW\\EcommerceKOgren.UOW.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.UOW\\EcommerceKOgren.UOW.csproj",
+        "projectName": "EcommerceKOgren.UOW",
+        "projectPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.UOW\\EcommerceKOgren.UOW.csproj",
+        "packagesPath": "C:\\Users\\Nida\\.nuget\\packages\\",
+        "outputPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.UOW\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DataAccess\\EcommerceKOgren.DataAccess.csproj": {
+                "projectPath": "C:\\konusarakOgren\\PROJECT\\EcommerceKOgren\\EcommerceKOgren.DataAccess\\EcommerceKOgren.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

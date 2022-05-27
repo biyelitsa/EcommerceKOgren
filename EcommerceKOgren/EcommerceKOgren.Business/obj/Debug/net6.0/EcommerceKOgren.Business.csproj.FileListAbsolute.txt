@@ -1,0 +1,14 @@
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\bin\Debug\net6.0\EcommerceKOgren.Business.deps.json
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\bin\Debug\net6.0\EcommerceKOgren.Business.runtimeconfig.json
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\bin\Debug\net6.0\EcommerceKOgren.Business.dll
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\bin\Debug\net6.0\EcommerceKOgren.Business.pdb
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.csproj.AssemblyReference.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.AssemblyInfoInputs.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.AssemblyInfo.cs
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.csproj.CoreCompileInputs.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.dll
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\refint\EcommerceKOgren.Business.dll
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.pdb
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\EcommerceKOgren.Business.genruntimeconfig.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Business\obj\Debug\net6.0\ref\EcommerceKOgren.Business.dll

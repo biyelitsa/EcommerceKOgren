@@ -1,0 +1,14 @@
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\bin\Debug\net6.0\EcommerceKOgren.Entities.deps.json
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\bin\Debug\net6.0\EcommerceKOgren.Entities.runtimeconfig.json
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\bin\Debug\net6.0\EcommerceKOgren.Entities.dll
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\bin\Debug\net6.0\EcommerceKOgren.Entities.pdb
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.csproj.AssemblyReference.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.AssemblyInfoInputs.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.AssemblyInfo.cs
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.csproj.CoreCompileInputs.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.dll
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\refint\EcommerceKOgren.Entities.dll
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.pdb
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\EcommerceKOgren.Entities.genruntimeconfig.cache
+C:\konusarakOgren\PROJECT\EcommerceKOgren\EcommerceKOgren.Entities\obj\Debug\net6.0\ref\EcommerceKOgren.Entities.dll
